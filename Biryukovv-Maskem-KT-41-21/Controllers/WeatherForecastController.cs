@@ -21,6 +21,7 @@ namespace Biryukovv_Maskem_KT_41_21.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            _logger.LogError("Method was called");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -29,5 +30,13 @@ namespace Biryukovv_Maskem_KT_41_21.Controllers
             })
             .ToArray();
         }
-    }
+        [HttpPost(Name = "Add New Summary")]
+       
+         public string[] AddNewSummary(string newSummary)
+
+         {_logger.LogError("New method was called");
+         var list = Summaries.ToList();
+        list.Add(newSummary);
+         return list.ToArray();}
+          }
 }

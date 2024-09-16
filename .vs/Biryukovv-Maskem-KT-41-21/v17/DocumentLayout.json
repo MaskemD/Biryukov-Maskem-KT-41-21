@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|c:\\users\\user\\source\\repos\\biryukovv-maskem-kt-41-21\\biryukovv-maskem-kt-41-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F6E12B7-8F48-40C4-88F7-3C18EE81CA63}|Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj|solutionrelative:biryukovv-maskem-kt-41-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:23:32.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biryukovv-Maskem-KT-41-21",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T17:23:25.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\WeatherForecast.cs",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:23:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Program.cs",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\Program.cs",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:55:51.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\appsettings.json",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\appsettings.json",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T16:53:57.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Biryukovv-Maskem-KT-41-21\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Biryukovv-Maskem-KT-41-21\\Biryukovv-Maskem-KT-41-21\\appsettings.Development.json",
+              "RelativeToolTip": "Biryukovv-Maskem-KT-41-21\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T16:53:52.029Z",
+              "EditorCaption": ""
             }
           ]
         }
